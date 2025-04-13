@@ -1,7 +1,7 @@
 # E-prontuario
 
 <div align="center">
-<img src="https://github.com/CauiDavis/E-prontuario/raw/main/gitassets/08.png" width="250" />
+<img src="https://github.com/CauiDavis/E-prontuario-readme/raw/main/gitassets/08.png" width="250" />
 
 
 <div data-badges>
@@ -34,5 +34,5 @@ E-prontuário é uma aplicação web para armazenar prontuários médicos de um 
 - criação da table
 - integração com a api do backend
 <div align="center">
-  <img src="https://github.com/CauiDavis/E-prontuario/raw/main/gitassets/Menu-administrador%201.png" width="1000"/>
+  <img src="https://github.com/CauiDavis/E-prontuario-readme/raw/main/gitassets/Menu-administrador%201.png" width="1000"/>
 <div/>
